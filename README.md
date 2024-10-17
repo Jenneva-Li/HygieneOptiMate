@@ -25,4 +25,4 @@ The Hygiene OptiMate follows the principles of universal design:
 
 
 ---
-<div align="right">[ <a href="#table-of-contents">↑ Back to top ↑</a> ]</div>
+<div align="right">[ <a href="#introduction">↑ Back to top ↑</a> ]</div>
