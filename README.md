@@ -23,7 +23,11 @@ The Hygiene OptiMate follows the principles of universal design:
 * **Low Physical Effort:** Emphasizes minimizing physical strain during hygiene tasks through automated features and ergonomic considerations. Its streamlined operations and reduced reliance on manual actions aim to offer a more comfortable and accessible experience.
 * **Size and Space for Approach and Use:** The HygieneOptiMate prioritizes compact mechanical systems to facilitate easy approach and maneuvering for users of all abilities.
 
-![HygieneOptiMate - Rack and pinion](https://github.com/user-attachments/assets/a04c62d2-bada-488a-bcaa-3ac9022fffbb){:width="200px"}
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a04c62d2-bada-488a-bcaa-3ac9022fffbb" alt="HygieneOptiMate - Rack and pinion" width="350px">
+</p>
+
+
 
 
 ---
