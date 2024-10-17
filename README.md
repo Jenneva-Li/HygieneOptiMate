@@ -13,6 +13,7 @@ The Hygiene OptiMate is an automated system designed to optimize user experience
 ---
 
 ## Design[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#design)
+The Hygiene OptiMate follows the principles of universal design: 
 
 * **Equitable Use:** Ensures accessibility and usability for a diverse range of users, respective of age or ability. Its automated features for essential hygiene tasks and customizable options accommodate various needs, eliminating barriers to access and promoting inclusivity among users in communal environments. This emphasis on standardizing hygiene routines while allowing for personalization demonstrates its commitment to equitable use, making it accessible and beneficial for all individuals.
 
