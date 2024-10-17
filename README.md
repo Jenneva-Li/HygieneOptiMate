@@ -14,13 +14,13 @@ The Hygiene OptiMate is an automated system designed to optimize user experience
 
 ## Design[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#design)
 
-* Equitable Use: Ensures accessibility and usability for a diverse range of users, respective of age or ability. Its automated features for essential hygiene tasks and customizable options accommodate various needs, eliminating barriers to access and promoting inclusivity among users in communal environments. This emphasis on standardizing hygiene routines while allowing for personalization demonstrates its commitment to equitable use, making it accessible and beneficial for all individuals.
+* **Equitable Use:** Ensures accessibility and usability for a diverse range of users, respective of age or ability. Its automated features for essential hygiene tasks and customizable options accommodate various needs, eliminating barriers to access and promoting inclusivity among users in communal environments. This emphasis on standardizing hygiene routines while allowing for personalization demonstrates its commitment to equitable use, making it accessible and beneficial for all individuals.
 
-* Flexibility in Use: Provides both standardized automated functions and customizable options. Its preset settings for hygiene tasks accommodate those preferring default configurations, while the manual adjustment feature through hand wave motion caters to individual preferences. This adaptability ensures users of varying abilities and needs can engage with the device comfortably.
+* **Flexibility in Use:** Provides both standardized automated functions and customizable options. Its preset settings for hygiene tasks accommodate those preferring default configurations, while the manual adjustment feature through hand wave motion caters to individual preferences. This adaptability ensures users of varying abilities and needs can engage with the device comfortably.
 
-* Simple and Intuitive Use: Provides a user-friendly interface that simplifies hygiene tasks. Its single-click operation and clear visual cues ensure a simple, straightforward experience for users of varying backgrounds and cognitive abilities.
-* Low Physical Effort: Emphasizes minimizing physical strain during hygiene tasks through automated features and ergonomic considerations. Its streamlined operations and reduced reliance on manual actions aim to offer a more comfortable and accessible experience.
-* Size and Space for Approach and Use: The HygieneOptiMate prioritizes compact mechanical systems to facilitate easy approach and maneuvering for users of all abilities.
+* **Simple and Intuitive Use:** Provides a user-friendly interface that simplifies hygiene tasks. Its single-click operation and clear visual cues ensure a simple, straightforward experience for users of varying backgrounds and cognitive abilities.
+* **Low Physical Effort:** Emphasizes minimizing physical strain during hygiene tasks through automated features and ergonomic considerations. Its streamlined operations and reduced reliance on manual actions aim to offer a more comfortable and accessible experience.
+* **Size and Space for Approach and Use:** The HygieneOptiMate prioritizes compact mechanical systems to facilitate easy approach and maneuvering for users of all abilities.
 
 
 ---
