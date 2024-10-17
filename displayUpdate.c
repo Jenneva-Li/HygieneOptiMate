@@ -1,24 +1,4 @@
-//motor A and B for faucet
-//A is hot and B is cold
-//motor C for soap
-
-const int MAX_TIME_COL=3;
-const int MAX_TIME_ROW=2;
-const int FACEWASH_TIMES = 3; // time intervals number for face wash, 
-//this number must be odd and greater than or equal to 1 
-float Time_intervals[MAX_TIME_ROW][MAX_TIME_COL]=
-{
-	{5000, 10000, 15000}, // 5 10, 15
-	{10000, 120000, 15000}
-};
-
-string Mode[MAX_TIME_ROW] =
-{
-	"face_washing", "teeth_brushing"
-};
-
-
-void displayUpdate(string mode, int temp_p, int time)
+void displayUpdate(string mode, float temp_p, int time)
 {
 	const int WIDTH = 177;
 	const int HEIGHT = 127;
@@ -31,8 +11,8 @@ void displayUpdate(string mode, int temp_p, int time)
 	drawRect(ORIGIN, HEIGHT, WIDTH, ORIGIN);
 
 	// line between
-	drawLine((WIDTH/2)-10, HEIGHT, (WIDTH/2)-10, ORIGIN); // vert
-	drawLine(ORIGIN, HEIGHT/2, (WIDTH/2)-10, HEIGHT/2); // horiz
+	drawLine((WIDTH/2)-10, HEIGHT, (WIDTH/2)-10, ORIGIN); // vertical
+	drawLine(ORIGIN, HEIGHT/2, (WIDTH/2)-10, HEIGHT/2); // horizontal
 
 	// brush teeth text
 	displayBigStringAt(7, HEIGHT-10, "Brush");
@@ -44,13 +24,13 @@ void displayUpdate(string mode, int temp_p, int time)
 
 	// temp bar
 	drawRect(WIDTH-20, HEIGHT-23, WIDTH-10, ORIGIN+25);
-	fillRect(WIDTH-20, (ORIGIN+25) + 75*(temp_p/100.0), WIDTH-10, ORIGIN+25);
+	fillRect(WIDTH-20, (ORIGIN+25) + 77*(temp_p/100.0), WIDTH-10, ORIGIN+25);
 
 	// temp percent display
 	displayStringAt(WIDTH-20, ORIGIN+15, "%d%c", temp_p, '%');
 
 	// countdown display
-	displayBigStringAt(WIDTH/2+10, HEIGHT/2, "%d %c", time, 's');
+	displayBigStringAt(WIDTH/2+10, HEIGHT/2, "%d%c", time, 's');
 
 	if (mode == "brush_teeth")
 	{
